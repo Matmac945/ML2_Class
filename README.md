@@ -1,2 +1,3 @@
-# ML2_Class
-Machine Learning 2 course assigments
+# Machine Learning 2 Class Assigments
+- PCA
+- Clustering
